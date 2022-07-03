@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tim Woodson",
+	"description": "i'm doing the freecodecamp API cert",
 	"main": "server.js",
 	"dependencies": {
 		"express": "^4.14.0"
