@@ -6,7 +6,8 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js",
+		"app_build_command": "npm run docs:build"
 	},
 	"repository": {
 		"type": "git",
